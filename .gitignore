@@ -34,3 +34,5 @@ yarn-error.log*
 # source-capture scratch (not part of the app)
 /_greensign_src
 /scripts/_fonts
+
+.vercel
