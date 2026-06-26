@@ -2,8 +2,8 @@
 
 export const site = {
   name: "Sequora",
-  domain: "sequora-eco.vercel.app",
-  url: "https://sequora-eco.vercel.app",
+  domain: "sequora-two.vercel.app",
+  url: "https://sequora-two.vercel.app",
   description:
     "Sequora is a climate-intelligence platform and ESG consultancy that turns environmental data into measurable progress — measure your footprint, reduce emissions, and back verified restoration.",
   tagline: "Built for modern sustainability teams.",
