@@ -1,0 +1,8 @@
+source-assets/
+sequora-*-contact.jpg
+sequora-imagegen-start.txt
+sequora-local-*.png
+sequora-prod-*.png
+sequora-server.*.log
+sequora-server.pid
+sequora-server.port

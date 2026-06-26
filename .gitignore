@@ -26,7 +26,7 @@ yarn-error.log*
 .env
 
 # vercel
-.vercel
+/.vercel
 
 # typescript
 *.tsbuildinfo
@@ -34,5 +34,11 @@ yarn-error.log*
 # source-capture scratch (not part of the app)
 /_greensign_src
 /scripts/_fonts
-
-.vercel
+/source-assets/
+/sequora-*-contact.jpg
+/sequora-imagegen-start.txt
+/sequora-local-*.png
+/sequora-prod-*.png
+/sequora-server.*.log
+/sequora-server.pid
+/sequora-server.port
